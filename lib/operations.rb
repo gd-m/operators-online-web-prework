@@ -20,4 +20,7 @@ else
 	return false
 	end
 
+speed > 60 ? true : false
+speed < 40 ? true : false
+
 end
